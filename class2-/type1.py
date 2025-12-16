@@ -1,3 +1,17 @@
+a,b=10,20
+c=5,10
+print(a)
+print(b)
+# print(c)
+c=5,11
+print(c)
+
+print(type(a))
+print(type(b))
+print(type(c))
+print('-----------')
+
+
 price=399
 rating=3.8
 brand='MILDIN'

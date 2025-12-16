@@ -1,3 +1,8 @@
+cost=14
+cost=15
+print(cost)
+
+
 price = 15
 a=int(price)
 x=bin(price)
