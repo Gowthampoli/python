@@ -20,3 +20,5 @@ print(enames)
 #delete
 del b[8]
 print(b)
+del enames[0]
+print(enames)
